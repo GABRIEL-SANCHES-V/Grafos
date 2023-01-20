@@ -32,5 +32,4 @@
   "python.testing.unittestEnabled": false,
   "python.linting.mypyEnabled": true,
   "python.defaultInterpreterPath": "python",
-  "workbench.colorTheme": "OM Theme (Default Dracula Italic)"
 }
